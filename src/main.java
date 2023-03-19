@@ -1,3 +1,6 @@
+
+
+
 public class main {
     public static void main(String[] args) {
         Pitbull pitbull=new Pitbull("Atılgan",4,4,false,true);
